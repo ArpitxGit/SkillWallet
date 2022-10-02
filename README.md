@@ -1,5 +1,7 @@
 # SkillWallet: Skill verification on Ethereum blockchain
 
+## Platform which let employees to update their skills on any blockchain network while ensuring the credibility of verification and help managers for verifying the skillset they want.  
+## Built using Express (Backend), Solidity, IPFS (Database), Bootstrap (Frontend).  
 # Installation
 <ul>
     <li>Install METAMASK and METAMASK Legacy web3 extensions for Chrome or Firefox </li>
